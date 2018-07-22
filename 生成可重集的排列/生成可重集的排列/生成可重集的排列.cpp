@@ -38,7 +38,7 @@ void keChongPaiLie(int n,vector<int> N,vector<int> P,int now)
 			if (!i || P[i] != P[i - 1])
 			{
 				int _count1 = count(P.begin(),P.end(),P[i]);
-				int _count2 = count(N.begin(),N.end(),P[i]);
+				int _count2 = count(N.begin(),N.begin()+now,P[i]);
 				if (_count2 < _count1)
 				{
 					N[now-1] = P[i];
