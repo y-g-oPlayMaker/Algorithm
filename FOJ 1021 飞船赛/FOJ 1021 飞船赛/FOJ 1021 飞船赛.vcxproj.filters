@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="增量构造法.cpp">
+    <ClCompile Include="FOJ 1021 飞船赛.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

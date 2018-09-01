@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{7E625E1F-65E2-434C-9603-2217A4F05E3E}</ProjectGuid>
-    <RootNamespace>增量构造法无重复元素</RootNamespace>
+    <ProjectGuid>{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}</ProjectGuid>
+    <RootNamespace>FOJ1409文件压缩</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,7 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="增量构造法.cpp" />
+    <ClCompile Include="FOJ 1409 文件压缩.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

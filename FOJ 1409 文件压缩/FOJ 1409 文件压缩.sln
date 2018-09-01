@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FOJ 1409 文件压缩", "FOJ 1409 文件压缩\FOJ 1409 文件压缩.vcxproj", "{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}.Debug|x64.ActiveCfg = Debug|x64
+		{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}.Debug|x64.Build.0 = Debug|x64
+		{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}.Debug|x86.Build.0 = Debug|Win32
+		{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}.Release|x64.ActiveCfg = Release|x64
+		{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}.Release|x64.Build.0 = Release|x64
+		{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}.Release|x86.ActiveCfg = Release|Win32
+		{5C2F64C3-2481-4F74-AE4E-11E7D4B26BE8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578D60B2-5C07-44AF-96B1-0D788B1F9C5C}
+	EndGlobalSection
+EndGlobal

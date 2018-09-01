@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{7E625E1F-65E2-434C-9603-2217A4F05E3E}</ProjectGuid>
-    <RootNamespace>增量构造法无重复元素</RootNamespace>
+    <ProjectGuid>{683A1AB5-8025-4D46-8E77-D4C9AFB385AB}</ProjectGuid>
+    <RootNamespace>带宽</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,7 +115,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="增量构造法.cpp" />
+    <ClCompile Include="带宽.cpp" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
